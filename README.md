@@ -5,3 +5,4 @@ Username: abc@gmail.com
 Password:123@
 Username:asd@gmail.com
 Password:123@
+U kodu se takodje nalaze funkcije za dodavanje uloga i njihovo brisanje, ali su iskomentariane zbog aplikacije
